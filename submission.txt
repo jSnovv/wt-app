@@ -1,0 +1,7 @@
+น.ส.อัมนี หิมะ รหัสนักศึกษา 6310110578
+App.js
+- render ผลลัพธ์จากไลบารี่ react-navigation
+ZipCodeScreen.js
+- เป็นหน้าจอสำหรับเลือกรหัสไปรษณีย์ พร้อมส่งผ่าน Route Parameter
+WeatherScreen.js
+- แสดงหน้าจอคอมโพเนนต์ Weather
